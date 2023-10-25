@@ -1,5 +1,4 @@
-About
-A website designed using React and Chakra Ui which let us check about different crypto currencies and also gives info about the Top exchanges. Used useEffect and useState hooks alot in this to change the states , Used Chartjs to show Chart in the website. Completely responsive website
+CryptoFy is designed using React and Chakra Ui which let us check out different cryptocurrencies and also give information about the top exchanges. I used useEffect and useState hooks a lot in this to change the states, and I used Chartjs to show the chart on the website. A completely responsive website.
 
 # React + Vite
 
